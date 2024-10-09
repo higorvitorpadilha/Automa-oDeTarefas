@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "aula": "Aula 1",
+      "codigo": "aprendapython",
+      "created_at": "2024-10-02T16:47:58.244799",
+      "id": "066fd793-e3ea-79fc-8000-39d1ae4430dc",
+      "status": true,
+      "tags": "7820,7824,7825"
+    },
+    {
+      "aula": "Aula 2",
+      "codigo": "dadospython",
+      "created_at": "2024-10-02T16:48:08.788936",
+      "id": "066fd794-8c9f-7697-8000-133ff7381ccb",
+      "status": true,
+      "tags": "7820,7824,7833"
+    },
+    {
+      "aula": "Aula 3",
+      "codigo": "pythonia",
+      "created_at": "2024-10-02T16:48:22.713314",
+      "id": "066fd795-6b69-7a9e-8000-458a0f19dff8",
+      "status": true,
+      "tags": "7820,7824,7841"
+    },
+    {
+      "aula": "Aula 4",
+      "codigo": "devpython",
+      "created_at": "2024-10-02T16:48:38.440768",
+      "id": "066fd796-670d-74f4-8000-ffcf16672ed6",
+      "status": true,
+      "tags": "7820,7824,7842"
+    }
+  ],
+  "relative": "jornada-python"
+}
